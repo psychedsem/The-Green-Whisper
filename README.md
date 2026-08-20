@@ -1,6 +1,6 @@
-![The Green Whisper — Generative Data Science for SDG 4](The%20Green%20Whisper%20\(cover\).png)
-
 # The Green Whisper
+
+![The Green Whisper — Generative Data Science for SDG 4](The%20Green%20Whisper%20\(cover\).png)
 
 ## 🇬🇧 English
 
